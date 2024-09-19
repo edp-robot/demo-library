@@ -1,0 +1,24 @@
+#  Local .terraform directories
+**/.terraform
+**/.terraform.d
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+**/.idea
+**/*.iml
+
+# Build Harness
+**/.build-harness
+**/build-harness
+
+# Crash log files
+crash.log
+test.log
+
+# Editor backups
+*.orig
+*.draft
+*~
+
